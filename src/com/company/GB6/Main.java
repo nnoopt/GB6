@@ -24,5 +24,6 @@ public class Main {
             dogs[i].swim(10);
         }
 
+
     }
 }
