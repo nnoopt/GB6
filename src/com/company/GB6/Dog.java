@@ -24,5 +24,4 @@ public class Dog extends Animal {
         System.out.println("swim: " + b + " " + swim);
     }
 
-
 }
